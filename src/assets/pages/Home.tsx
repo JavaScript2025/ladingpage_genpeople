@@ -1,7 +1,29 @@
+import { ListaProdutos } from "../components/listaProdutos/ListaProdutos";
+
 function Home() {
   return (
     <>
-      <div>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsa vel ducimus, impedit aspernatur consectetur eligendi saepe. Ab itaque vel necessitatibus! Corporis recusandae porro enim unde temporibus repellendus quasi provident itaque.</div>
+      <div className="bg-indigo-900 flex justify-center">
+        <div className="container grid grid-cols-2 text-white">
+          <div className="flex flex-col gap-4 items-center justify-center py-4">
+            <h2 className="text-5xl font-bold">Gen People</h2>
+            <p className="text-xl">
+              Soluções completas em tecnologia para gestão de pessoas.
+            </p>
+
+            <div className="flex justify-around gap-4">
+            </div>
+          </div>
+          <div className="flex justify-center ">
+            <img
+              src="https://i.imgur.com/fyfri1v.png"
+              alt="Imagem Página Home"
+              className="w-2/3"
+            />
+          </div>
+        </div>
+      </div>
+      <ListaProdutos />
     </>
   );
 }
