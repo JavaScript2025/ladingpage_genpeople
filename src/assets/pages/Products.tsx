@@ -1,16 +1,13 @@
-import Footer from "../components/footer/Footer";
 import { ListaProdutos } from "../components/listaProdutos/ListaProdutos";
-import Navbar from "../components/navbar/Navbar";
 
-
-export function Products() {
+function Products() {
   return (
     <>
-      <Navbar />
       <main className="min-h-screen">
-        <ListaProdutos /> 
+        <ListaProdutos />
       </main>
-      <Footer />
     </>
   );
 }
+
+export default Products;

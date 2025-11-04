@@ -1,0 +1,38 @@
+[
+  {
+    "nome": "Inglyd Miranda",
+    "github": "https://github.com/inglyd",
+    "linkedin": "https://www.linkedin.com/in/inglyd/",
+    "foto_url": "https://github.com/inglyd.png"
+  },
+  {
+    "nome": "Mariana Souza",
+    "github": "https://github.com/mariana-tech",
+    "linkedin": "https://www.linkedin.com/in/marianasouza-dev",
+    "foto_url": "https://exemplo.com/fotos/mariana_souza.png"
+  },
+  {
+    "nome": "Ricardo Mendes",
+    "github": "https://github.com/ricardomendes-x",
+    "linkedin": "https://www.linkedin.com/in/ricardomendes-br",
+    "foto_url": "https://exemplo.com/fotos/ricardo_mendes.jpg"
+  },
+  {
+    "nome": "Ana Clara Lima",
+    "github": "https://github.com/anaclara-ux",
+    "linkedin": "https://www.linkedin.com/in/anaclaralima-design",
+    "foto_url": "https://exemplo.com/fotos/ana_clara.png"
+  },
+  {
+    "nome": "Felipe Gomes",
+    "github": "https://github.com/felipe-gomes-code",
+    "linkedin": "https://www.linkedin.com/in/felipegomes-software",
+    "foto_url": "https://exemplo.com/fotos/felipe_gomes.jpg"
+  },
+  {
+    "nome": "Camila Oliveira",
+    "github": "https://github.com/cami-oli",
+    "linkedin": "https://www.linkedin.com/in/camilaoliveira-data",
+    "foto_url": "https://exemplo.com/fotos/camila_oliveira.jpg"
+  }
+]
