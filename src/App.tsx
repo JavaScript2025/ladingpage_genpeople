@@ -1,4 +1,4 @@
-import "./App.css";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Navbar from "./assets/components/navbar/Navbar";
 import Footer from "./assets/components/footer/Footer";
 import Home from "./assets/pages/Home";
@@ -6,9 +6,17 @@ import Home from "./assets/pages/Home";
 function App() {
   return (
     <>
-      <Navbar />
-      <Home />
-      <Footer />
+      <BrowserRouter>
+        <Navbar />
+        <div className="min-h-[80vh]">
+          <Routes>
+            <Route path="/" element={<Home />} />
+            <Route path="/home" element={<Home />} />
+          </Routes>
+        </div>
+        <Home />
+        <Footer />
+      </BrowserRouter>
     </>
   );
 }
