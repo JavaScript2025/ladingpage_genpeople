@@ -9,7 +9,7 @@ function Home() {
       <div className="flex justify-center ">
         <div className="container grid grid-cols-1 text-black">
           <div className="flex flex-col gap-4 items-center justify-center py-4">
-            <h2 className="text-5xl font-bold bg-gradient-to-r from-[#712A6B] via-[#F98737] to-[#2F4A94] bg-clip-text text-transparent pb-2">
+            <h2 className="text-7xl font-bold bg-gradient-to-r from-[#712A6B] via-[#F98737] to-[#2F4A94] bg-clip-text text-transparent pb-2 pt-20">
               Gen People
             </h2>
             <h3 className="text-4xl font-bold">Inteligente e Automatizada</h3>
