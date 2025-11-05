@@ -4,16 +4,16 @@ function Footer() {
   let data = new Date().getFullYear()
   return (
     <>
-      <div className="w-full flex justify-center py-4 bg-[#DCECF2] text-black">
+      <div className="w-full flex justify-center py-4 bg-[#FFFAFA] text-black border-t-2 border-gray-100 pt-8">
       <div className="container flex flex-col items-center py-4">
-                    <p className='text-xl font-roboto'>
+                    <p className='text-xs font-roboto'>
                            Gen People Generation | Copyright: {data}
                         </p>
-                    <p className='text-lg'>Acesse nossas redes sociais</p>
+                    <p className='text-x '>Acesse nossas redes sociais</p>
                     <div className='flex gap-2'>
-                        <LinkedinLogoIcon size={40} weight='bold' />
-                        <InstagramLogoIcon size={40} weight='bold' />
-                        <FacebookLogoIcon size={40} weight='bold' />
+                      <a href=""><LinkedinLogoIcon size={30} weight='bold' /></a>
+                      <a href=""><InstagramLogoIcon size={30} weight='bold' /></a>
+                      <a href=""><FacebookLogoIcon size={30} weight='bold' /></a>
                     </div>
                 </div>
       </div>

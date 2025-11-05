@@ -1,0 +1,22 @@
+[
+  {
+    "number": "01",
+    "title": "Cadastro Simples",
+    "description": "Crie sua conta e configure sua empresa em menos de 5 minutos."
+  },
+  {
+    "number": "02",
+    "title": "Importação de Dados",
+    "description": "Migre seus dados existentes de forma automática e segura."
+  },
+  {
+    "number": "03",
+    "title": "Configuração",
+    "description": "Personalize workflows e processos de acordo com sua empresa."
+  },
+  {
+    "number": "04",
+    "title": "Comece a Usar",
+    "description": "Sua equipe já pode começar a usar todas as funcionalidades."
+  }
+]
