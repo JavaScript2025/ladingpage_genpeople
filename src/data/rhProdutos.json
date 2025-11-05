@@ -3,30 +3,35 @@
     "id": 1,
     "titulo": "Recrutamento e Seleção (ATS)",
     "subtitulo": "Atração e Gestão de Talentos",
-    "descricao": "Automatize o processo seletivo, desde a abertura da vaga até a admissão digital. Utilize ferramentas para triagem e encontre o fit cultural ideal para sua empresa."
+    "descricao": "Automatize o processo seletivo, desde a abertura da vaga até a admissão digital. Utilize ferramentas para triagem e encontre o fit cultural ideal para sua empresa.",
+    "icone": "MagnifyingGlassIcon"
   },
   {
     "id": 2,
     "titulo": "Gestão de Performance e PDI",
     "subtitulo": "Avaliações e Desenvolvimento Individual",
-    "descricao": "Estruture ciclos de avaliação 360°, gerencie metas (OKR/KPI) e crie Planos de Desenvolvimento Individual (PDI) focados na evolução contínua dos colaboradores."
+    "descricao": "Estruture ciclos de avaliação 360°, gerencie metas (OKR/KPI) e crie Planos de Desenvolvimento Individual (PDI) focados na evolução contínua dos colaboradores.",
+    "icone": "ChartLineIcon"
   },
   {
     "id": 3,
     "titulo": "Departamento Pessoal e Folha",
     "subtitulo": "Cálculos e Conformidade Legal",
-    "descricao": "Garanta a conformidade legal com a legislação trabalhista. Gestão simplificada de Folha de Pagamento, eSocial, férias, benefícios e holerites digitais."
+    "descricao": "Garanta a conformidade legal com a legislação trabalhista. Gestão simplificada de Folha de Pagamento, eSocial, férias, benefícios e holerites digitais.",
+    "icone": "ChartPieIcon"
   },
   {
     "id": 4,
     "titulo": "Controle de Ponto Inteligente",
     "subtitulo": "Jornada, Banco de Horas e Frequência",
-    "descricao": "Registro de ponto via App, web ou facial. Gerencie banco de horas, horas extras e absenteísmo com relatórios em tempo real, eliminando planilhas manuais."
+    "descricao": "Registro de ponto via App, web ou facial. Gerencie banco de horas, horas extras e absenteísmo com relatórios em tempo real, eliminando planilhas manuais.",
+    "icone": "FolderSimpleUserIcon"
   },
   {
     "id": 5,
     "titulo": "Pesquisa de Clima e Engajamento",
     "subtitulo": "Diagnóstico e Ações Estratégicas",
-    "descricao": "Realize pesquisas de clima rápidas (Pulse Surveys) e detalhadas. Monitore o nível de engajamento e turnover com painéis (dashboards) e People Analytics."
+    "descricao": "Realize pesquisas de clima rápidas (Pulse Surveys) e detalhadas. Monitore o nível de engajamento e turnover com painéis (dashboards) e People Analytics.",
+    "icone": "FileMagnifyingGlassIcon"
   }
 ]
